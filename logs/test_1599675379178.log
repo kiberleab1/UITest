@@ -1,0 +1,9 @@
+D, [2020-09-09T21:16:19.225659 #10582] DEBUG -- : Requested scenario == 'GET request'
+D, [2020-09-09T21:16:19.225848 #10582] DEBUG -- : Requested method == GET
+D, [2020-09-09T21:16:19.225875 #10582] DEBUG -- : Requested url == https://reqres.in/api/users
+D, [2020-09-09T21:16:19.225895 #10582] DEBUG -- : Requested headers == {"Content-Type"=>"application/json", "Accept"=>"application/json", "Authorization"=>"Basic YWhhbWlsdG9uQGFwaWdlZS5jb206bXlwQHNzdzByZA=="}
+D, [2020-09-09T21:16:19.225905 #10582] DEBUG -- : Requested body == not available
+D, [2020-09-09T21:17:19.326584 #10582] DEBUG -- : Requested scenario == 'POST request'
+D, [2020-09-09T21:17:19.327565 #10582] DEBUG -- : Requested scenario == 'DELETE request'
+D, [2020-09-09T21:17:19.328863 #10582] DEBUG -- : Requested scenario == 'PUT request'
+D, [2020-09-09T21:17:19.331827 #10582] DEBUG -- : Requested scenario == 'PATCH request'
